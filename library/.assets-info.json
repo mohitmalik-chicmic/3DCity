@@ -1,0 +1,306 @@
+{
+  "/Users/chicmic/Documents/InhouseCOCOS/CharacterMapMove/assets/man.meta": {
+    "time": 1682490039307.848
+  },
+  "/Users/chicmic/Documents/InhouseCOCOS/CharacterMapMove/assets/man/man01.mtl.meta": {
+    "time": 1682490039405.1228
+  },
+  "/Users/chicmic/Documents/InhouseCOCOS/CharacterMapMove/assets/man/man02.mtl.meta": {
+    "time": 1682490039405.4294
+  },
+  "/Users/chicmic/Documents/InhouseCOCOS/CharacterMapMove/assets/man/manAll.FBX.meta": {
+    "time": 1682490041558.828
+  },
+  "/Users/chicmic/Documents/InhouseCOCOS/CharacterMapMove/assets/man": {
+    "time": 1682583117253.4321,
+    "uuid": "f473a456-f4b4-48ef-9593-253740a3b8f9",
+    "missing": false
+  },
+  "/Users/chicmic/Documents/InhouseCOCOS/CharacterMapMove/assets/man/man01.mtl": {
+    "time": 1682490039312.2341,
+    "uuid": "3d4aa3cc-38bb-4689-bc0d-8cfc987197dc",
+    "missing": false
+  },
+  "/Users/chicmic/Documents/InhouseCOCOS/CharacterMapMove/assets/man/man02.mtl": {
+    "time": 1682490039312.1914,
+    "uuid": "3f078f52-0116-4c4e-a8f4-ced543d6ff24",
+    "missing": false
+  },
+  "/Users/chicmic/Documents/InhouseCOCOS/CharacterMapMove/assets/res.meta": {
+    "time": 1682490040932.0867
+  },
+  "/Users/chicmic/Documents/InhouseCOCOS/CharacterMapMove/assets/res/model.meta": {
+    "time": 1682490040932.2144
+  },
+  "/Users/chicmic/Documents/InhouseCOCOS/CharacterMapMove/assets/res/model/man.meta": {
+    "time": 1682490040932.2888
+  },
+  "/Users/chicmic/Documents/InhouseCOCOS/CharacterMapMove/assets/res/model/man/man01.mtl.meta": {
+    "time": 1682490040959.7268
+  },
+  "/Users/chicmic/Documents/InhouseCOCOS/CharacterMapMove/assets/res": {
+    "time": 1682490040779.8608,
+    "uuid": "de455326-ae97-4942-b388-1b399cf1e343",
+    "missing": false
+  },
+  "/Users/chicmic/Documents/InhouseCOCOS/CharacterMapMove/assets/res/model": {
+    "time": 1682490040779.9553,
+    "uuid": "a3f871b2-5bfb-44e5-9436-085d4f96d15d",
+    "missing": false
+  },
+  "/Users/chicmic/Documents/InhouseCOCOS/CharacterMapMove/assets/res/model/man": {
+    "time": 1682490040780.0498,
+    "uuid": "a60d6d3d-d3b7-4091-96c9-2b6b3c512909",
+    "missing": false
+  },
+  "/Users/chicmic/Documents/InhouseCOCOS/CharacterMapMove/assets/res/model/man/man01.mtl": {
+    "time": 1682490040779.2368,
+    "uuid": "4381ecd2-c111-484d-9eca-374c80f23e57",
+    "missing": false
+  },
+  "/Users/chicmic/Documents/InhouseCOCOS/CharacterMapMove/assets/man/manAll.FBX": {
+    "time": 1682490039304.3481,
+    "uuid": "cac0c16b-7581-4e22-bfbf-f379b13e3f8a",
+    "missing": false
+  },
+  "/Users/chicmic/Documents/InhouseCOCOS/CharacterMapMove/assets/scene.scene.meta": {
+    "time": 1682490397652.2397
+  },
+  "/Users/chicmic/Documents/InhouseCOCOS/CharacterMapMove/assets/scene.scene": {
+    "time": 1682591071417.6985,
+    "uuid": "320f136c-675f-428c-afec-da5a2dcac335",
+    "missing": false
+  },
+  "/Users/chicmic/Documents/InhouseCOCOS/CharacterMapMove/assets/manRotate.ts.meta": {
+    "time": 1682492161170.242
+  },
+  "/Users/chicmic/Documents/InhouseCOCOS/CharacterMapMove/assets/manRotate.ts": {
+    "time": 1682591242449.0544,
+    "uuid": "8220d868-460e-48fd-a47d-f109684d7842",
+    "missing": false
+  },
+  "/Users/chicmic/Documents/InhouseCOCOS/CharacterMapMove/assets/CameraPos.ts.meta": {
+    "time": 1682500882093.0188
+  },
+  "/Users/chicmic/Documents/InhouseCOCOS/CharacterMapMove/assets/CameraPos.ts": {
+    "time": 1682503195129.1116,
+    "uuid": "bab2f39e-f004-4fdc-9b66-005833b80568",
+    "missing": false
+  },
+  "/Users/chicmic/Documents/InhouseCOCOS/CharacterMapMove/assets/house.meta": {
+    "time": 1682573056807.6255
+  },
+  "/Users/chicmic/Documents/InhouseCOCOS/CharacterMapMove/assets/house/house01.FBX.meta": {
+    "time": 1682573057034.5366
+  },
+  "/Users/chicmic/Documents/InhouseCOCOS/CharacterMapMove/assets/house/house01.jpg.meta": {
+    "time": 1682573056999.6975
+  },
+  "/Users/chicmic/Documents/InhouseCOCOS/CharacterMapMove/assets/house/house02.FBX.meta": {
+    "time": 1682573057007.7708
+  },
+  "/Users/chicmic/Documents/InhouseCOCOS/CharacterMapMove/assets/house/house02.jpg.meta": {
+    "time": 1682573056999.3264
+  },
+  "/Users/chicmic/Documents/InhouseCOCOS/CharacterMapMove/assets/house": {
+    "time": 1682573056806.092,
+    "uuid": "b09877e0-92d5-47f2-8700-b5b23608039c",
+    "missing": false
+  },
+  "/Users/chicmic/Documents/InhouseCOCOS/CharacterMapMove/assets/house/house02.jpg": {
+    "time": 1682573056803.0173,
+    "uuid": "57738da8-697e-4c8e-a9de-e96a4b29fe71",
+    "missing": false
+  },
+  "/Users/chicmic/Documents/InhouseCOCOS/CharacterMapMove/assets/house/house01.jpg": {
+    "time": 1682573056805.1194,
+    "uuid": "e0012da4-1edf-49f8-8393-c177ba70d240",
+    "missing": false
+  },
+  "/Users/chicmic/Documents/InhouseCOCOS/CharacterMapMove/assets/house/house02.FBX": {
+    "time": 1682573056804.2107,
+    "uuid": "c4995fba-9b4b-4968-957c-6eb66f4e73eb",
+    "missing": false
+  },
+  "/Users/chicmic/Documents/InhouseCOCOS/CharacterMapMove/assets/house/house01.FBX": {
+    "time": 1682573056806.3333,
+    "uuid": "3cdc8bc7-088b-4837-8831-9f38eeeb8c88",
+    "missing": false
+  },
+  "/Users/chicmic/Documents/InhouseCOCOS/CharacterMapMove/assets/Controler.meta": {
+    "time": 1682583015766.172
+  },
+  "/Users/chicmic/Documents/InhouseCOCOS/CharacterMapMove/assets/Controler/joystick.png.meta": {
+    "time": 1682583015763.247
+  },
+  "/Users/chicmic/Documents/InhouseCOCOS/CharacterMapMove/assets/Controler": {
+    "time": 1682583117253.4321,
+    "uuid": "a57e0df6-715d-48cf-b444-c59f6b8bd2b6",
+    "missing": false
+  },
+  "/Users/chicmic/Documents/InhouseCOCOS/CharacterMapMove/assets/Controler/joystick.png": {
+    "time": 1682583015764.0383,
+    "uuid": "91d29ebc-da34-4a71-ae60-7ca1b98a6a98",
+    "missing": false
+  },
+  "/Users/chicmic/Documents/InhouseCOCOS/CharacterMapMove/assets/Controler/joystick_ball.png.meta": {
+    "time": 1682583015759.1748
+  },
+  "/Users/chicmic/Documents/InhouseCOCOS/CharacterMapMove/assets/Controler/joystick_ball.png": {
+    "time": 1682583015761.5723,
+    "uuid": "5548abf0-89f1-4f22-9624-4d83103fed0e",
+    "missing": false
+  },
+  "/Users/chicmic/Documents/InhouseCOCOS/3DCity/assets/Controler": {
+    "time": 1682583117253.4321,
+    "uuid": "a57e0df6-715d-48cf-b444-c59f6b8bd2b6",
+    "missing": false
+  },
+  "/Users/chicmic/Documents/InhouseCOCOS/3DCity/assets/house": {
+    "time": 1682573056806.092,
+    "uuid": "b09877e0-92d5-47f2-8700-b5b23608039c",
+    "missing": false
+  },
+  "/Users/chicmic/Documents/InhouseCOCOS/3DCity/assets/man": {
+    "time": 1682583117253.4324,
+    "uuid": "f473a456-f4b4-48ef-9593-253740a3b8f9",
+    "missing": false
+  },
+  "/Users/chicmic/Documents/InhouseCOCOS/3DCity/assets/res": {
+    "time": 1682490040779.8608,
+    "uuid": "de455326-ae97-4942-b388-1b399cf1e343",
+    "missing": false
+  },
+  "/Users/chicmic/Documents/InhouseCOCOS/3DCity/assets/res/model": {
+    "time": 1682490040779.9553,
+    "uuid": "a3f871b2-5bfb-44e5-9436-085d4f96d15d",
+    "missing": false
+  },
+  "/Users/chicmic/Documents/InhouseCOCOS/3DCity/assets/res/model/man": {
+    "time": 1682490040780.0498,
+    "uuid": "a60d6d3d-d3b7-4091-96c9-2b6b3c512909",
+    "missing": false
+  },
+  "/Users/chicmic/Documents/InhouseCOCOS/3DCity/assets/CameraPos.ts": {
+    "time": 1682503195129.1113,
+    "uuid": "bab2f39e-f004-4fdc-9b66-005833b80568",
+    "missing": false
+  },
+  "/Users/chicmic/Documents/InhouseCOCOS/3DCity/assets/manRotate.ts": {
+    "time": 1682591469805.4055,
+    "uuid": "8220d868-460e-48fd-a47d-f109684d7842",
+    "missing": false
+  },
+  "/Users/chicmic/Documents/InhouseCOCOS/3DCity/assets/Controler.meta": {
+    "time": 1682583015766.172
+  },
+  "/Users/chicmic/Documents/InhouseCOCOS/3DCity/assets/house.meta": {
+    "time": 1682573056807.6255
+  },
+  "/Users/chicmic/Documents/InhouseCOCOS/3DCity/assets/man.meta": {
+    "time": 1682490039307.848
+  },
+  "/Users/chicmic/Documents/InhouseCOCOS/3DCity/assets/res.meta": {
+    "time": 1682490040932.0867
+  },
+  "/Users/chicmic/Documents/InhouseCOCOS/3DCity/assets/res/model.meta": {
+    "time": 1682490040932.2146
+  },
+  "/Users/chicmic/Documents/InhouseCOCOS/3DCity/assets/res/model/man.meta": {
+    "time": 1682490040932.2888
+  },
+  "/Users/chicmic/Documents/InhouseCOCOS/3DCity/assets/CameraPos.ts.meta": {
+    "time": 1682500882093.0188
+  },
+  "/Users/chicmic/Documents/InhouseCOCOS/3DCity/assets/manRotate.ts.meta": {
+    "time": 1682492161170.242
+  },
+  "/Users/chicmic/Documents/InhouseCOCOS/3DCity/assets/scene.scene": {
+    "time": 1682591071417.6985,
+    "uuid": "320f136c-675f-428c-afec-da5a2dcac335",
+    "missing": false
+  },
+  "/Users/chicmic/Documents/InhouseCOCOS/3DCity/assets/Controler/joystick.png": {
+    "time": 1682583015764.038,
+    "uuid": "91d29ebc-da34-4a71-ae60-7ca1b98a6a98",
+    "missing": false
+  },
+  "/Users/chicmic/Documents/InhouseCOCOS/3DCity/assets/Controler/joystick_ball.png": {
+    "time": 1682583015761.5723,
+    "uuid": "5548abf0-89f1-4f22-9624-4d83103fed0e",
+    "missing": false
+  },
+  "/Users/chicmic/Documents/InhouseCOCOS/3DCity/assets/house/house01.FBX": {
+    "time": 1682573056806.3333,
+    "uuid": "3cdc8bc7-088b-4837-8831-9f38eeeb8c88",
+    "missing": false
+  },
+  "/Users/chicmic/Documents/InhouseCOCOS/3DCity/assets/house/house01.jpg": {
+    "time": 1682573056805.1196,
+    "uuid": "e0012da4-1edf-49f8-8393-c177ba70d240",
+    "missing": false
+  },
+  "/Users/chicmic/Documents/InhouseCOCOS/3DCity/assets/house/house02.FBX": {
+    "time": 1682573056804.2107,
+    "uuid": "c4995fba-9b4b-4968-957c-6eb66f4e73eb",
+    "missing": false
+  },
+  "/Users/chicmic/Documents/InhouseCOCOS/3DCity/assets/house/house02.jpg": {
+    "time": 1682573056803.0173,
+    "uuid": "57738da8-697e-4c8e-a9de-e96a4b29fe71",
+    "missing": false
+  },
+  "/Users/chicmic/Documents/InhouseCOCOS/3DCity/assets/man/man01.mtl": {
+    "time": 1682490039312.2341,
+    "uuid": "3d4aa3cc-38bb-4689-bc0d-8cfc987197dc",
+    "missing": false
+  },
+  "/Users/chicmic/Documents/InhouseCOCOS/3DCity/assets/man/man02.mtl": {
+    "time": 1682490039312.1914,
+    "uuid": "3f078f52-0116-4c4e-a8f4-ced543d6ff24",
+    "missing": false
+  },
+  "/Users/chicmic/Documents/InhouseCOCOS/3DCity/assets/man/manAll.FBX": {
+    "time": 1682490039304.3481,
+    "uuid": "cac0c16b-7581-4e22-bfbf-f379b13e3f8a",
+    "missing": false
+  },
+  "/Users/chicmic/Documents/InhouseCOCOS/3DCity/assets/res/model/man/man01.mtl": {
+    "time": 1682490040779.2368,
+    "uuid": "4381ecd2-c111-484d-9eca-374c80f23e57",
+    "missing": false
+  },
+  "/Users/chicmic/Documents/InhouseCOCOS/3DCity/assets/scene.scene.meta": {
+    "time": 1682490397652.2397
+  },
+  "/Users/chicmic/Documents/InhouseCOCOS/3DCity/assets/house/house01.jpg.meta": {
+    "time": 1682573056999.6975
+  },
+  "/Users/chicmic/Documents/InhouseCOCOS/3DCity/assets/house/house02.jpg.meta": {
+    "time": 1682573056999.3264
+  },
+  "/Users/chicmic/Documents/InhouseCOCOS/3DCity/assets/man/man01.mtl.meta": {
+    "time": 1682490039405.1228
+  },
+  "/Users/chicmic/Documents/InhouseCOCOS/3DCity/assets/man/man02.mtl.meta": {
+    "time": 1682490039405.4294
+  },
+  "/Users/chicmic/Documents/InhouseCOCOS/3DCity/assets/house/house01.FBX.meta": {
+    "time": 1682573057034.5366
+  },
+  "/Users/chicmic/Documents/InhouseCOCOS/3DCity/assets/Controler/joystick_ball.png.meta": {
+    "time": 1682583015759.1748
+  },
+  "/Users/chicmic/Documents/InhouseCOCOS/3DCity/assets/res/model/man/man01.mtl.meta": {
+    "time": 1682490040959.7268
+  },
+  "/Users/chicmic/Documents/InhouseCOCOS/3DCity/assets/house/house02.FBX.meta": {
+    "time": 1682573057007.7708
+  },
+  "/Users/chicmic/Documents/InhouseCOCOS/3DCity/assets/Controler/joystick.png.meta": {
+    "time": 1682583015763.247
+  },
+  "/Users/chicmic/Documents/InhouseCOCOS/3DCity/assets/man/manAll.FBX.meta": {
+    "time": 1682490041558.828
+  }
+}

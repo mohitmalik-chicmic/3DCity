@@ -1,0 +1,375 @@
+{
+  "f473a456-f4b4-48ef-9593-253740a3b8f9": {
+    "url": "db://assets/man",
+    "value": {}
+  },
+  "3d4aa3cc-38bb-4689-bc0d-8cfc987197dc": {
+    "url": "db://assets/man/man01.mtl",
+    "value": {
+      "depends": [
+        "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+      ]
+    }
+  },
+  "3f078f52-0116-4c4e-a8f4-ced543d6ff24": {
+    "url": "db://assets/man/man02.mtl",
+    "value": {
+      "depends": [
+        "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+      ]
+    }
+  },
+  "cac0c16b-7581-4e22-bfbf-f379b13e3f8a": {
+    "url": "db://assets/man/manAll.FBX",
+    "value": {
+      "depends": []
+    }
+  },
+  "cac0c16b-7581-4e22-bfbf-f379b13e3f8a@12496": {
+    "url": "db://assets/man/manAll.FBX@12496",
+    "value": {
+      "depends": []
+    }
+  },
+  "cac0c16b-7581-4e22-bfbf-f379b13e3f8a@34918": {
+    "url": "db://assets/man/manAll.FBX@34918",
+    "value": {
+      "depends": []
+    }
+  },
+  "cac0c16b-7581-4e22-bfbf-f379b13e3f8a@74167": {
+    "url": "db://assets/man/manAll.FBX@74167",
+    "value": {
+      "depends": []
+    }
+  },
+  "de455326-ae97-4942-b388-1b399cf1e343": {
+    "url": "db://assets/res",
+    "value": {}
+  },
+  "a3f871b2-5bfb-44e5-9436-085d4f96d15d": {
+    "url": "db://assets/res/model",
+    "value": {}
+  },
+  "a60d6d3d-d3b7-4091-96c9-2b6b3c512909": {
+    "url": "db://assets/res/model/man",
+    "value": {}
+  },
+  "4381ecd2-c111-484d-9eca-374c80f23e57": {
+    "url": "db://assets/res/model/man/man01.mtl",
+    "value": {
+      "depends": [
+        "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+      ]
+    }
+  },
+  "cac0c16b-7581-4e22-bfbf-f379b13e3f8a@89933": {
+    "url": "db://assets/man/manAll.FBX@89933",
+    "value": {
+      "depends": []
+    }
+  },
+  "cac0c16b-7581-4e22-bfbf-f379b13e3f8a@3eea5": {
+    "url": "db://assets/man/manAll.FBX@3eea5",
+    "value": {
+      "depends": []
+    }
+  },
+  "cac0c16b-7581-4e22-bfbf-f379b13e3f8a@1f586": {
+    "url": "db://assets/man/manAll.FBX@1f586",
+    "value": {
+      "depends": []
+    }
+  },
+  "cac0c16b-7581-4e22-bfbf-f379b13e3f8a@cf5ee": {
+    "url": "db://assets/man/manAll.FBX@cf5ee",
+    "value": {
+      "depends": []
+    }
+  },
+  "cac0c16b-7581-4e22-bfbf-f379b13e3f8a@151e9": {
+    "url": "db://assets/man/manAll.FBX@151e9",
+    "value": {
+      "depends": []
+    }
+  },
+  "cac0c16b-7581-4e22-bfbf-f379b13e3f8a@13c14": {
+    "url": "db://assets/man/manAll.FBX@13c14",
+    "value": {
+      "depends": []
+    }
+  },
+  "cac0c16b-7581-4e22-bfbf-f379b13e3f8a@07a11": {
+    "url": "db://assets/man/manAll.FBX@07a11",
+    "value": {
+      "depends": []
+    }
+  },
+  "cac0c16b-7581-4e22-bfbf-f379b13e3f8a@67bfe": {
+    "url": "db://assets/man/manAll.FBX@67bfe",
+    "value": {
+      "depends": []
+    }
+  },
+  "cac0c16b-7581-4e22-bfbf-f379b13e3f8a@b4251": {
+    "url": "db://assets/man/manAll.FBX@b4251",
+    "value": {
+      "depends": []
+    }
+  },
+  "cac0c16b-7581-4e22-bfbf-f379b13e3f8a@a9e48": {
+    "url": "db://assets/man/manAll.FBX@a9e48",
+    "value": {
+      "depends": []
+    }
+  },
+  "cac0c16b-7581-4e22-bfbf-f379b13e3f8a@ee525": {
+    "url": "db://assets/man/manAll.FBX@ee525",
+    "value": {
+      "depends": []
+    }
+  },
+  "cac0c16b-7581-4e22-bfbf-f379b13e3f8a@562d4": {
+    "url": "db://assets/man/manAll.FBX@562d4",
+    "value": {
+      "depends": []
+    }
+  },
+  "cac0c16b-7581-4e22-bfbf-f379b13e3f8a@438fe": {
+    "url": "db://assets/man/manAll.FBX@438fe",
+    "value": {
+      "depends": []
+    }
+  },
+  "cac0c16b-7581-4e22-bfbf-f379b13e3f8a@787dd": {
+    "url": "db://assets/man/manAll.FBX@787dd",
+    "value": {
+      "depends": [
+        "4381ecd2-c111-484d-9eca-374c80f23e57",
+        "cac0c16b-7581-4e22-bfbf-f379b13e3f8a@3eea5",
+        "cac0c16b-7581-4e22-bfbf-f379b13e3f8a@438fe",
+        "cac0c16b-7581-4e22-bfbf-f379b13e3f8a@12496",
+        "cac0c16b-7581-4e22-bfbf-f379b13e3f8a@34918",
+        "cac0c16b-7581-4e22-bfbf-f379b13e3f8a@74167",
+        "cac0c16b-7581-4e22-bfbf-f379b13e3f8a@89933",
+        "cac0c16b-7581-4e22-bfbf-f379b13e3f8a@1f586",
+        "cac0c16b-7581-4e22-bfbf-f379b13e3f8a@cf5ee",
+        "cac0c16b-7581-4e22-bfbf-f379b13e3f8a@151e9",
+        "cac0c16b-7581-4e22-bfbf-f379b13e3f8a@13c14",
+        "cac0c16b-7581-4e22-bfbf-f379b13e3f8a@07a11",
+        "cac0c16b-7581-4e22-bfbf-f379b13e3f8a@67bfe",
+        "cac0c16b-7581-4e22-bfbf-f379b13e3f8a@b4251",
+        "cac0c16b-7581-4e22-bfbf-f379b13e3f8a@a9e48",
+        "cac0c16b-7581-4e22-bfbf-f379b13e3f8a@ee525",
+        "cac0c16b-7581-4e22-bfbf-f379b13e3f8a@562d4",
+        "cac0c16b-7581-4e22-bfbf-f379b13e3f8a@12496"
+      ]
+    }
+  },
+  "320f136c-675f-428c-afec-da5a2dcac335": {
+    "url": "db://assets/scene.scene",
+    "value": {
+      "depends": [
+        "320f136c-675f-428c-afec-da5a2dcac335",
+        "d3c7820c-2a98-4429-8bc7-b8453bc9ac41",
+        "1263d74c-8167-4928-91a6-4e2672411f47@2e76e",
+        "3f078f52-0116-4c4e-a8f4-ced543d6ff24",
+        "cac0c16b-7581-4e22-bfbf-f379b13e3f8a@3eea5",
+        "cac0c16b-7581-4e22-bfbf-f379b13e3f8a@438fe",
+        "cac0c16b-7581-4e22-bfbf-f379b13e3f8a@cf5ee",
+        "cac0c16b-7581-4e22-bfbf-f379b13e3f8a@cf5ee",
+        "ba21476f-2866-4f81-9c4d-6e359316e448",
+        "3cdc8bc7-088b-4837-8831-9f38eeeb8c88@58fbf",
+        "3cdc8bc7-088b-4837-8831-9f38eeeb8c88@604e5",
+        "c4995fba-9b4b-4968-957c-6eb66f4e73eb@4eb3d",
+        "c4995fba-9b4b-4968-957c-6eb66f4e73eb@604e5",
+        "3cdc8bc7-088b-4837-8831-9f38eeeb8c88@58fbf",
+        "3cdc8bc7-088b-4837-8831-9f38eeeb8c88@604e5",
+        "c4995fba-9b4b-4968-957c-6eb66f4e73eb@4eb3d",
+        "c4995fba-9b4b-4968-957c-6eb66f4e73eb@604e5",
+        "3cdc8bc7-088b-4837-8831-9f38eeeb8c88@58fbf",
+        "3cdc8bc7-088b-4837-8831-9f38eeeb8c88@604e5",
+        "3cdc8bc7-088b-4837-8831-9f38eeeb8c88@58fbf",
+        "3cdc8bc7-088b-4837-8831-9f38eeeb8c88@604e5",
+        "5548abf0-89f1-4f22-9624-4d83103fed0e@f9941",
+        "91d29ebc-da34-4a71-ae60-7ca1b98a6a98@f9941",
+        "320f136c-675f-428c-afec-da5a2dcac335",
+        "d032ac98-05e1-4090-88bb-eb640dcb5fc1@b47c0",
+        "d032ac98-05e1-4090-88bb-eb640dcb5fc1@b47c0",
+        "6f01cf7f-81bf-4a7e-bd5d-0afc19696480@b47c0"
+      ]
+    }
+  },
+  "8220d868-460e-48fd-a47d-f109684d7842": {
+    "url": "db://assets/manRotate.ts",
+    "value": {}
+  },
+  "bab2f39e-f004-4fdc-9b66-005833b80568": {
+    "url": "db://assets/CameraPos.ts",
+    "value": {}
+  },
+  "b09877e0-92d5-47f2-8700-b5b23608039c": {
+    "url": "db://assets/house",
+    "value": {}
+  },
+  "3cdc8bc7-088b-4837-8831-9f38eeeb8c88": {
+    "url": "db://assets/house/house01.FBX",
+    "value": {}
+  },
+  "c4995fba-9b4b-4968-957c-6eb66f4e73eb": {
+    "url": "db://assets/house/house02.FBX",
+    "value": {}
+  },
+  "e0012da4-1edf-49f8-8393-c177ba70d240": {
+    "url": "db://assets/house/house01.jpg",
+    "value": {
+      "depends": []
+    }
+  },
+  "57738da8-697e-4c8e-a9de-e96a4b29fe71": {
+    "url": "db://assets/house/house02.jpg",
+    "value": {
+      "depends": []
+    }
+  },
+  "57738da8-697e-4c8e-a9de-e96a4b29fe71@6c48a": {
+    "url": "db://assets/house/house02.jpg@6c48a",
+    "value": {
+      "depends": [
+        "57738da8-697e-4c8e-a9de-e96a4b29fe71"
+      ]
+    }
+  },
+  "e0012da4-1edf-49f8-8393-c177ba70d240@6c48a": {
+    "url": "db://assets/house/house01.jpg@6c48a",
+    "value": {
+      "depends": [
+        "e0012da4-1edf-49f8-8393-c177ba70d240"
+      ]
+    }
+  },
+  "c4995fba-9b4b-4968-957c-6eb66f4e73eb@604e5": {
+    "url": "db://assets/house/house02.FBX@604e5",
+    "value": {
+      "depends": []
+    }
+  },
+  "c4995fba-9b4b-4968-957c-6eb66f4e73eb@546af": {
+    "url": "db://assets/house/house02.FBX@546af",
+    "value": {
+      "depends": []
+    }
+  },
+  "c4995fba-9b4b-4968-957c-6eb66f4e73eb@a96a6": {
+    "url": "db://assets/house/house02.FBX@a96a6",
+    "value": {
+      "depends": [
+        "c4995fba-9b4b-4968-957c-6eb66f4e73eb@546af"
+      ]
+    }
+  },
+  "c4995fba-9b4b-4968-957c-6eb66f4e73eb@4eb3d": {
+    "url": "db://assets/house/house02.FBX@4eb3d",
+    "value": {
+      "depends": [
+        "1baf0fc9-befa-459c-8bdd-af1a450a0319",
+        "c4995fba-9b4b-4968-957c-6eb66f4e73eb@a96a6"
+      ]
+    }
+  },
+  "c4995fba-9b4b-4968-957c-6eb66f4e73eb@f5095": {
+    "url": "db://assets/house/house02.FBX@f5095",
+    "value": {
+      "depends": [
+        "c4995fba-9b4b-4968-957c-6eb66f4e73eb@4eb3d",
+        "c4995fba-9b4b-4968-957c-6eb66f4e73eb@604e5"
+      ]
+    }
+  },
+  "3cdc8bc7-088b-4837-8831-9f38eeeb8c88@604e5": {
+    "url": "db://assets/house/house01.FBX@604e5",
+    "value": {
+      "depends": []
+    }
+  },
+  "3cdc8bc7-088b-4837-8831-9f38eeeb8c88@0c9c4": {
+    "url": "db://assets/house/house01.FBX@0c9c4",
+    "value": {
+      "depends": []
+    }
+  },
+  "3cdc8bc7-088b-4837-8831-9f38eeeb8c88@442db": {
+    "url": "db://assets/house/house01.FBX@442db",
+    "value": {
+      "depends": [
+        "3cdc8bc7-088b-4837-8831-9f38eeeb8c88@0c9c4"
+      ]
+    }
+  },
+  "3cdc8bc7-088b-4837-8831-9f38eeeb8c88@58fbf": {
+    "url": "db://assets/house/house01.FBX@58fbf",
+    "value": {
+      "depends": [
+        "1baf0fc9-befa-459c-8bdd-af1a450a0319",
+        "3cdc8bc7-088b-4837-8831-9f38eeeb8c88@442db"
+      ]
+    }
+  },
+  "3cdc8bc7-088b-4837-8831-9f38eeeb8c88@bfbd5": {
+    "url": "db://assets/house/house01.FBX@bfbd5",
+    "value": {
+      "depends": [
+        "3cdc8bc7-088b-4837-8831-9f38eeeb8c88@58fbf",
+        "3cdc8bc7-088b-4837-8831-9f38eeeb8c88@604e5"
+      ]
+    }
+  },
+  "a57e0df6-715d-48cf-b444-c59f6b8bd2b6": {
+    "url": "db://assets/Controler",
+    "value": {}
+  },
+  "91d29ebc-da34-4a71-ae60-7ca1b98a6a98": {
+    "url": "db://assets/Controler/joystick.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "5548abf0-89f1-4f22-9624-4d83103fed0e": {
+    "url": "db://assets/Controler/joystick_ball.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "5548abf0-89f1-4f22-9624-4d83103fed0e@6c48a": {
+    "url": "db://assets/Controler/joystick_ball.png@6c48a",
+    "value": {
+      "depends": [
+        "5548abf0-89f1-4f22-9624-4d83103fed0e"
+      ]
+    }
+  },
+  "91d29ebc-da34-4a71-ae60-7ca1b98a6a98@6c48a": {
+    "url": "db://assets/Controler/joystick.png@6c48a",
+    "value": {
+      "depends": [
+        "91d29ebc-da34-4a71-ae60-7ca1b98a6a98"
+      ]
+    }
+  },
+  "5548abf0-89f1-4f22-9624-4d83103fed0e@f9941": {
+    "url": "db://assets/Controler/joystick_ball.png@f9941",
+    "value": {
+      "depends": [
+        "5548abf0-89f1-4f22-9624-4d83103fed0e@6c48a"
+      ]
+    }
+  },
+  "91d29ebc-da34-4a71-ae60-7ca1b98a6a98@f9941": {
+    "url": "db://assets/Controler/joystick.png@f9941",
+    "value": {
+      "depends": [
+        "91d29ebc-da34-4a71-ae60-7ca1b98a6a98@6c48a"
+      ]
+    }
+  }
+}
