@@ -182,12 +182,12 @@
     "missing": false
   },
   "/Users/chicmic/Documents/InhouseCOCOS/3DCity/assets/CameraPos.ts": {
-    "time": 1683089883060.3274,
+    "time": 1683183476625.97,
     "uuid": "bab2f39e-f004-4fdc-9b66-005833b80568",
     "missing": false
   },
   "/Users/chicmic/Documents/InhouseCOCOS/3DCity/assets/manRotate.ts": {
-    "time": 1683096156988.9077,
+    "time": 1683188269077.9856,
     "uuid": "8220d868-460e-48fd-a47d-f109684d7842",
     "missing": false
   },
@@ -216,7 +216,7 @@
     "time": 1682492161170.242
   },
   "/Users/chicmic/Documents/InhouseCOCOS/3DCity/assets/scene.scene": {
-    "time": 1683096157468.602,
+    "time": 1683188355889.3315,
     "uuid": "320f136c-675f-428c-afec-da5a2dcac335",
     "missing": false
   },
@@ -302,5 +302,133 @@
   },
   "/Users/chicmic/Documents/InhouseCOCOS/3DCity/assets/man/manAll.FBX.meta": {
     "time": 1682490041558.828
+  },
+  "/Users/chicmic/Documents/InhouseCOCOS/3DCity/assets/plane.meta": {
+    "time": 1683096624686.0615
+  },
+  "/Users/chicmic/Documents/InhouseCOCOS/3DCity/assets/plane/plane01.FBX.meta": {
+    "time": 1683096624680.7612
+  },
+  "/Users/chicmic/Documents/InhouseCOCOS/3DCity/assets/plane/plane01.jpg.meta": {
+    "time": 1683096624679.1917
+  },
+  "/Users/chicmic/Documents/InhouseCOCOS/3DCity/assets/plane": {
+    "time": 1683096624682.0286,
+    "uuid": "115f182d-d643-436b-981b-14cad61ee923",
+    "missing": false
+  },
+  "/Users/chicmic/Documents/InhouseCOCOS/3DCity/assets/plane/plane01.jpg": {
+    "time": 1683096624680.0212,
+    "uuid": "4fa2b91c-5290-4a69-9398-990ad6610272",
+    "missing": false
+  },
+  "/Users/chicmic/Documents/InhouseCOCOS/3DCity/assets/plane/plane01.FBX": {
+    "time": 1683096624681.5576,
+    "uuid": "60c084d9-f9c9-4ff1-acc9-d9df252760c2",
+    "missing": false
+  },
+  "/Users/chicmic/Documents/InhouseCOCOS/3DCity/assets/road.meta": {
+    "time": 1683096634162.6597
+  },
+  "/Users/chicmic/Documents/InhouseCOCOS/3DCity/assets/road/road01.FBX.meta": {
+    "time": 1683096634160.7292
+  },
+  "/Users/chicmic/Documents/InhouseCOCOS/3DCity/assets/road/road01.jpg.meta": {
+    "time": 1683096634159.7268
+  },
+  "/Users/chicmic/Documents/InhouseCOCOS/3DCity/assets/road/road02.FBX.meta": {
+    "time": 1683096634158.688
+  },
+  "/Users/chicmic/Documents/InhouseCOCOS/3DCity/assets/road/road02.jpg.meta": {
+    "time": 1683096634156.619
+  },
+  "/Users/chicmic/Documents/InhouseCOCOS/3DCity/assets/road/road03.FBX.meta": {
+    "time": 1683096634155.3242
+  },
+  "/Users/chicmic/Documents/InhouseCOCOS/3DCity/assets/road/road03.jpg.meta": {
+    "time": 1683096634154.024
+  },
+  "/Users/chicmic/Documents/InhouseCOCOS/3DCity/assets/road/road04.FBX.meta": {
+    "time": 1683096634152.8289
+  },
+  "/Users/chicmic/Documents/InhouseCOCOS/3DCity/assets/road/road05.FBX.meta": {
+    "time": 1683096634151.372
+  },
+  "/Users/chicmic/Documents/InhouseCOCOS/3DCity/assets/road/road06.FBX.meta": {
+    "time": 1683096634149.7053
+  },
+  "/Users/chicmic/Documents/InhouseCOCOS/3DCity/assets/road/road07.FBX.meta": {
+    "time": 1683096634147.6511
+  },
+  "/Users/chicmic/Documents/InhouseCOCOS/3DCity/assets/road/road08.FBX.meta": {
+    "time": 1683096634145.5151
+  },
+  "/Users/chicmic/Documents/InhouseCOCOS/3DCity/assets/road": {
+    "time": 1683096634161.0503,
+    "uuid": "8039a3fa-eaf6-440e-93b5-a82d65b6b2aa",
+    "missing": false
+  },
+  "/Users/chicmic/Documents/InhouseCOCOS/3DCity/assets/road/road02.jpg": {
+    "time": 1683096634157.083,
+    "uuid": "c1e6962a-7a19-46a1-a735-66baa9fde99f",
+    "missing": false
+  },
+  "/Users/chicmic/Documents/InhouseCOCOS/3DCity/assets/road/road01.jpg": {
+    "time": 1683096634160.2764,
+    "uuid": "6a371787-54fd-4385-a074-aad4d84b1b44",
+    "missing": false
+  },
+  "/Users/chicmic/Documents/InhouseCOCOS/3DCity/assets/road/road03.jpg": {
+    "time": 1683096634154.6926,
+    "uuid": "34010588-3291-481a-94f3-03215560cb0b",
+    "missing": false
+  },
+  "/Users/chicmic/Documents/InhouseCOCOS/3DCity/assets/road/road02.FBX": {
+    "time": 1683096634159.246,
+    "uuid": "9d593c04-1de1-4646-90b0-862e7650e2e7",
+    "missing": false
+  },
+  "/Users/chicmic/Documents/InhouseCOCOS/3DCity/assets/road/road01.FBX": {
+    "time": 1683096634161.2468,
+    "uuid": "594e68c3-616a-4fe3-8954-e06e87a8cf97",
+    "missing": false
+  },
+  "/Users/chicmic/Documents/InhouseCOCOS/3DCity/assets/road/road04.FBX": {
+    "time": 1683096634153.4536,
+    "uuid": "ad9c4705-57dc-43b1-aed8-aa7089971767",
+    "missing": false
+  },
+  "/Users/chicmic/Documents/InhouseCOCOS/3DCity/assets/road/road05.FBX": {
+    "time": 1683096634152.157,
+    "uuid": "df693b2d-2846-43af-afe9-348a454abdbd",
+    "missing": false
+  },
+  "/Users/chicmic/Documents/InhouseCOCOS/3DCity/assets/road/road03.FBX": {
+    "time": 1683096634156.039,
+    "uuid": "648a88b7-d36e-452e-9b37-a7dd077f05dd",
+    "missing": false
+  },
+  "/Users/chicmic/Documents/InhouseCOCOS/3DCity/assets/road/road06.FBX": {
+    "time": 1683096634150.7075,
+    "uuid": "bd0f2c89-ba3e-4ca6-b244-548e1899427b",
+    "missing": false
+  },
+  "/Users/chicmic/Documents/InhouseCOCOS/3DCity/assets/road/road07.FBX": {
+    "time": 1683096634148.7222,
+    "uuid": "f5cf3589-8dc9-48c1-8df8-59bcead1895e",
+    "missing": false
+  },
+  "/Users/chicmic/Documents/InhouseCOCOS/3DCity/assets/road/road08.FBX": {
+    "time": 1683096634146.6633,
+    "uuid": "0b112ecf-18a2-43e2-bf3a-30fc315e3827",
+    "missing": false
+  },
+  "/Users/chicmic/Documents/InhouseCOCOS/3DCity/assets/Collision.ts.meta": {
+    "time": 1683099123920.6392
+  },
+  "/Users/chicmic/Documents/InhouseCOCOS/3DCity/assets/Collision.ts": {
+    "time": 1683119503411.2163,
+    "uuid": "07fe788d-ed17-4222-8b17-507fa504dffb",
+    "missing": false
   }
 }
