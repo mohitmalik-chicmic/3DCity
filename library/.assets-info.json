@@ -182,12 +182,12 @@
     "missing": false
   },
   "/Users/chicmic/Documents/InhouseCOCOS/3DCity/assets/CameraPos.ts": {
-    "time": 1683183476625.97,
+    "time": 1683188572812.669,
     "uuid": "bab2f39e-f004-4fdc-9b66-005833b80568",
     "missing": false
   },
   "/Users/chicmic/Documents/InhouseCOCOS/3DCity/assets/manRotate.ts": {
-    "time": 1683188269077.9856,
+    "time": 1683193557516.2087,
     "uuid": "8220d868-460e-48fd-a47d-f109684d7842",
     "missing": false
   },
@@ -216,7 +216,7 @@
     "time": 1682492161170.242
   },
   "/Users/chicmic/Documents/InhouseCOCOS/3DCity/assets/scene.scene": {
-    "time": 1683188355889.3315,
+    "time": 1683193578810.0862,
     "uuid": "320f136c-675f-428c-afec-da5a2dcac335",
     "missing": false
   },
@@ -421,14 +421,6 @@
   "/Users/chicmic/Documents/InhouseCOCOS/3DCity/assets/road/road08.FBX": {
     "time": 1683096634146.6633,
     "uuid": "0b112ecf-18a2-43e2-bf3a-30fc315e3827",
-    "missing": false
-  },
-  "/Users/chicmic/Documents/InhouseCOCOS/3DCity/assets/Collision.ts.meta": {
-    "time": 1683099123920.6392
-  },
-  "/Users/chicmic/Documents/InhouseCOCOS/3DCity/assets/Collision.ts": {
-    "time": 1683119503411.2163,
-    "uuid": "07fe788d-ed17-4222-8b17-507fa504dffb",
     "missing": false
   }
 }

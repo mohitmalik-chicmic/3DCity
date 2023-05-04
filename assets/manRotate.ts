@@ -1,5 +1,5 @@
-import { _decorator, Component, EventKeyboard, input, Input, macro, Node, Quat, SkeletalAnimation, tween, UITransform, v3, Vec3 } from 'cc';
-import { Collision } from './Collision';
+import { _decorator, Component, EventKeyboard, input, Input, KeyCode, macro, Node, Quat, SkeletalAnimation, tween, UITransform, v3, Vec3 } from 'cc';
+
 import { CameraPos } from './CameraPos';
 const { ccclass, property } = _decorator;
 enum KEY {
@@ -43,26 +43,58 @@ export class manRotate extends Component {
     onKeyPressing(event: EventKeyboard) {
 
         switch (event.keyCode) {
-            case 38: {
+            case KeyCode.ARROW_UP: {
                 console.log("UP Pressed");
                 // this.node.eulerAngles = v3(0, this.pos, 0)
                 this.moveCharacter = true
                 // this.characterPosition()
             }
                 break;
-        }
-    }
-    onKeyUp(event: EventKeyboard) {
+            case 37: {    //Left Arrow
+                this.CharacterPosition = new Vec3();
+                let Destination = new Vec3();
+                Destination.x =
+                    this.node.getPosition().x -
+                    this.node.right.x
+                Destination.y = this.node.getPosition().y;
+                Destination.z =
+                    this.node.getPosition().z -
+                    this.node.right.z
+                Vec3.lerp(
+                    this.CharacterPosition,
+                    this.node.getPosition(),
+                    Destination,
+                    1
+                );
+                this.node.setPosition(this.CharacterPosition);
+            }
+                break;
+            case 39: { //Right Arrow
 
-        switch (event.keyCode) {
-            case 38: {
-                console.log("UP Pressed");
-                // this.node.eulerAngles = v3(0, this.pos, 0)
-                this.moveCharacter = false
-                // this.characterPosition()
+                this.CharacterPosition = new Vec3();
+                let Destination = new Vec3();
+                Destination.x =
+                    this.node.getPosition().x +
+                    this.node.right.x
+                Destination.y = this.node.getPosition().y;
+                Destination.z =
+                    this.node.getPosition().z +
+                    this.node.right.z
+                Vec3.lerp(
+                    this.CharacterPosition,
+                    this.node.getPosition(),
+                    Destination,
+                    1
+                );
+                this.node.setPosition(this.CharacterPosition);
             }
                 break;
         }
+    }
+    onKeyUp(event: EventKeyboard) {
+        // this.node.eulerAngles = v3(0, this.pos, 0)
+        this.moveCharacter = false
+        // this.characterPosition()
     }
 
     characterPosition() {
